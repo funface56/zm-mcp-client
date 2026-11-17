@@ -1,0 +1,1 @@
+{"token_endpoint_auth_method":"none","client_uri":"https://github.com/deepseek-ai","response_types":["code"],"grant_types":["authorization_code","refresh_token"],"redirect_uris":["http://127.0.0.1:8765/callback"],"scope":"all","client_id":"https://cdn.jsdelivr.net/gh/funface56/zm-mcp-client@main/client.json","client_name":"DeepSeek Harness"}
